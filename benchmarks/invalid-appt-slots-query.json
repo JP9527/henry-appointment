@@ -1,0 +1,11 @@
+{
+    "errors": [
+        {
+            "message": "not a valid GraphQL query",
+            "extensions": {
+                "path": "$.query",
+                "code": "bad-request"
+            }
+        }
+    ]
+}

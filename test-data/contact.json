@@ -1,0 +1,40 @@
+[
+    {
+        "firtName": "John",
+        "lastName": "Doe",
+        "email": "johndoe@example.com",
+        "emailVerify": "johndoe@example.com",
+        "dateOfBirth": "01/01/1987",
+        "phone": "2055555521",
+        "sex": "Male",
+        "prefGenderPronouns": "He/Him",
+        "termsAndConditions": true,
+        "marketing": true
+    },
+
+    {
+        "firtName": "Jane",
+        "lastName": "wasp",
+        "email": "Jane@example.com",
+        "emailVerify": "Jane@example.com",
+        "dateOfBirth": "01/01/1987",
+        "phone": "2055555521",
+        "sex": "Male",
+        "prefGenderPronouns": "He/Him",
+        "termsAndConditions": true,
+        "marketing": true
+    },
+
+    {
+        "firtName": "John",
+        "lastName": "Doe",
+        "email": "johndoe@example.com",
+        "emailVerify": "johndoe@example.com",
+        "dateOfBirth": "01/01/1987",
+        "phone": "123-456-7890",
+        "sex": "Male",
+        "prefGenderPronouns": "He/Him",
+        "termsAndConditions": true,
+        "marketing": true
+    }
+]

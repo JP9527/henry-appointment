@@ -1,0 +1,11 @@
+{
+    "errors": [
+        {
+            "message": "no such operation found in the document: \"cappedNotAvailableTimes\"",
+            "extensions": {
+                "path": "$",
+                "code": "validation-failed"
+            }
+        }
+    ]
+}
